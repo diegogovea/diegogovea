@@ -5,7 +5,13 @@
 ## Intereses
 
 
+## Lenguajes de interes
 
+- C++
+- PYTHON
+- JAVA
+
+## ayudaaaaaaaaa
 <!--
 **diegogovea/diegogovea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

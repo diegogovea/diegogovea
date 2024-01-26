@@ -1,4 +1,6 @@
-# Hi there 👋
+# Holiiii 👋
+
+Mis más grandes pasiones son el arte, la literatura y la ciencia y tecnología, así que en esta cuenta pienso plasmar mi parte más tecnológica.
 
 ## ⚡A cerca de mí ⚡
 

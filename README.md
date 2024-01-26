@@ -4,6 +4,8 @@
 
 ## Intereses
 
+## Actualmente trabajando en:
+
 
 ## Lenguajes de interes
 
@@ -12,6 +14,9 @@
 - JAVA
 
 ## ayudaaaaaaaaa
+
+### Contacto 
+
 <!--
 **diegogovea/diegogovea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

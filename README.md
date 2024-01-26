@@ -1,6 +1,8 @@
 # Holiiii 👋
 
-Mis más grandes pasiones son el arte, la literatura y la ciencia y tecnología, así que en esta cuenta pienso plasmar mi parte más tecnológica.
+Mi nombre es Diego Govea, soy un estudiante de Ingeniería en Computación, mis más grandes pasiones son el arte, la literatura, la ciencia y tecnología, por lo que más me gusta es como poder compaginar todos estos ámbitos en uno solo, y ver como se complementan para tener un desarrollo más amplio en mi persona. En este perfil de GitHub pienso plasmar mi parte que gusta más por la tecnología.
+
+
 
 ## ⚡A cerca de mí ⚡
 

@@ -12,6 +12,11 @@ My name is Diego Govea, I am a Computer Engineering student whose greatest passi
 
 ## Actualmente trabajando en:
 
+## Mis cursos
+Actualmente me encuentro tomando los siguientes cursos.
+- Python Y Ya - Programación y Ya
+- Canva
+- Blender para principiantes
 
 
 ## Lenguajes de interes

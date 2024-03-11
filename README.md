@@ -6,11 +6,9 @@ Mi nombre es Diego Govea, soy un estudiante de Ingeniería en Computación, mis 
 ##⚡About Me⚡<br>
 My name is Diego Govea, I am a Computer Engineering student whose greatest passions are art, literature, science, and technology. What I like the most is how I can bring together all these areas into one, and see how they complement each other to have a broader development in my person. In this GitHub profile, I plan to showcase the part of me that is most interested in technology.
 
-
-
 ## Intereses
 
-## Actualmente trabajando en:
+## Actualmente trabajando en
 
 ## Mis cursos
 

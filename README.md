@@ -11,5 +11,5 @@ My name is Diego Govea, I am a final semester student of Computer Engineering. M
 - Java
 - C++
 - Python
-- 
+- JavaScript
 

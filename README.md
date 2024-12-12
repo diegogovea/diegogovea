@@ -7,7 +7,7 @@ Mi nombre es Diego Govea, soy estudiante de último semestre de Ingeniería en C
 My name is Diego Govea, I am a final semester student of Computer Engineering. My greatest passions are art and science/technology, and throughout my extensive journey as a student and professional, I am tasked with discovering how to combine both passions into one. This GitHub profile is a glimpse into some of the projects and activities I engage in throughout my daily life.
 
 ### Lenguajes de interés       
-
+ 
 - Java
 - C++
 - Python
